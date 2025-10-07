@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Avengers: Endgame",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+        "releaseDate": "2019-04-26",
+        "plot": "The Avengers assemble for a final showdow."
+    },
+
+    {
+        "name": "Inception",
+        "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL.AC_SY679.jpg",
+        "releaseDate": "2010-07-16",
+        "plot": "A thief enters people's dreams to steal secrets and plant ideas."
+    },
+
+    {
+        "name": "The Dark Knight",
+        "image": "https://cdn.marvel.com/content/1x/thenewavengers_lob_crd_01.jpg",
+        "releaseDate": "2008-07-18",
+        "plot": "Batman faces the Joker, a criminal mastermind ."
+    },
+
+    {
+        "name": "Interstellar",
+        "image": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+        "releaseDate": "2014-11-07",
+        "plot": "A team of explorers travel through a wormhole in space to save humanity."
+    },
+
+    {
+        "name": "Parasite",
+        "image": "https://m.media-amazon.com/images/I/91KkWf50SoL.AC_SY679.jpg",
+        "releaseDate": "2019-05-30",
+        "plot": "A poor family schemes to become employed by a wealthy household."
+    },
+
+    {
+        "name": "Forrest Gump",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+        "releaseDate": "1994-07-06",
+        "plot": "The story of a simple man with a big heart who witnesses."
+    },
+    
+    {
+        "name": "The Shawshank Redemption",
+        "image": "https://m.media-amazon.com/images/I/51NiGlapXlL.AC_SY679.jpg",
+        "releaseDate": "1994-09-23",
+        "plot": "Two imprisoned men bond over years, finding hope and redemption."
+    },
+    {
+        "name": "Pulp Fiction",
+        "image": "https://m.media-amazon.com/images/I/71c05lTE03L.AC_SY679.jpg",
+        "releaseDate": "1994-10-14",
+        "plot": "The lives of two mob hitmen, a boxer."
+    },
+    {
+        "name": "The Godfather",
+        "image": "https://m.media-amazon.com/images/I/51rOnIjLqzL.AC_SY679.jpg",
+        "releaseDate": "1972-03-24",
+        "plot": "The aging patriarch of an organized crime ."
+    },
+    {
+        "name": "Fight Club",
+        "image": "https://riotheatre.ca/wp-content/uploads/2023/11/hZkgoQYus5vegHoetLkCJzb17zJ-1024x576.jpg",
+        "releaseDate": "1999-10-15",
+        "plot": "An insomniac and a soap salesman form."
+    },
+    {
+        "name": "Joker",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8bzkWPLtveifhcTGpBBIsy8MGGSl7vuATg&s",
+        "releaseDate": "2019-10-04",
+        "plot": "A failed comedian descends into madness and becomes the Joker."
+    },
+    {
+        "name": "Titanic",
+        "image": "https://m.media-amazon.com/images/I/71rNJQ2g-EL.AC_SY679.jpg",
+        "releaseDate": "1997-12-19",
+        "plot": "A romance blossoms aboard the ill-fated RMS Titanic."
+    },
+    {
+        "name": "The Matrix",
+        "image": "https://m.media-amazon.com/images/I/51EG732BV3L.AC_SY679.jpg",
+        "releaseDate": "1999-03-31",
+        "plot": "A computer hacker learns about the true nature of his reality."
+    },
+    {
+        "name": "Ironman3",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": "2000-05-05",
+        "plot": "A betrayed Roman general seeks vengeance as a gladiator."
+    },
+    {
+        "name": "Captain Marvel",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_.jpg",
+        "releaseDate": "1994-06-24",
+        "plot": "A lion cub flees his kingdom only to learn ."
+    },
+    {
+        "name": "Jurassic Park",
+        "image": "https://m.media-amazon.com/images/I/51oXKWrcYYL.AC_SY679.jpg",
+        "releaseDate": "1993-06-11",
+        "plot": "A theme park suffers a major power breakdow."
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "image": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL.AC_SY679.jpg",
+        "releaseDate": "2001-12-19",
+        "plot": "A hobbit and his companions set ."
+    },
+    {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "image": "https://m.media-amazon.com/images/I/81aA7hEEykL.AC_SY679.jpg",
+        "releaseDate": "1977-05-25",
+        "plot": "A farm boy joins a rebellion ."
+    },
+    {
+        "name": "Black Panther",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SAlkx-qwRwZSzoJlIcFxSmNJPEbxYR0BwA&s",
+        "releaseDate": "2018-02-16",
+        "plot": "T'Challa returns home to Wakanda to take his place as king."
+    },
+    {
+        "name": "Black Panther Wakanda Forever",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT539mZQRTV2LQPhwOLKZKIq42gKIpeZxuViw&s",
+        "releaseDate": "2016-12-09",
+        "plot": "A jazz musician and an aspiring actress fall in love in Los Angeles."
+    },
+    {
+        "name": "Shiva Neupane The Hero",
+        "image": "https://m.media-amazon.com/images/I/81aA7hEEykL.AC_SY679.jpg",
+        "releaseDate": "2025-12-09",
+        "plot": "A hero musician and an aspiring actress fall in love in Los Angeles."
+    }
+]
