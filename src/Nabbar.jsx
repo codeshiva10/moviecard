@@ -2,8 +2,8 @@ import React from 'react'
 
 const Nabbar = () => {
   return (
-    <div className='text-white flex   justify-between mx-3 h-20 w-full '>
-      <div className=' flex justify-center items-center w-45 font-bold '>
+    <div className='text-white flex   justify-between mx-3 h-20 w-full mb-3'>
+      <div className=' flex justify-center items-center w-45 font-extrabold text-4xl text-amber-300'>
         Movies
       </div>
 
